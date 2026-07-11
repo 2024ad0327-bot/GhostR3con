@@ -1,3 +1,7 @@
+<p align ="center">
+ <img src="ghostr3con.png" alt="GhostR3con Banner" width="100%">
+</p>
+
 # GhostR3con
 Frontend UI/UX repository for the Ghost R3con cybersecurity dashboard built with React.js and Tailwind CSS
 
